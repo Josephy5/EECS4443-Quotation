@@ -1,4 +1,4 @@
-package ca.yorku.eecs.mack.demo_quotation_25741;
+package ca.yorku.eecs.mack.demo_quotation;
 
 import android.util.Log;
 

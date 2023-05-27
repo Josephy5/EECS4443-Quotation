@@ -1,4 +1,4 @@
-package ca.yorku.eecs.mack.demo_quotation_25741;
+package ca.yorku.eecs.mack.demo_quotation;
 
 import static android.support.test.InstrumentationRegistry.getInstrumentation;
 import static android.support.test.espresso.Espresso.onData;
@@ -48,16 +48,6 @@ import org.hamcrest.core.IsInstanceOf;
 import org.junit.Rule;
 import org.junit.Test;
 import org.junit.runner.RunWith;
-
-
-/**
- * DemoQuotationActivityTest by...
- * <p>
- * Login ID - josephy5
- * Student ID - 2171255741
- * Last name - Yong
- * First name(s) - Joseph
- */
 
 /**
  * <p>

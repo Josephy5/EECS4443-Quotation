@@ -1,4 +1,4 @@
-package ca.yorku.eecs.mack.demo_quotation_25741;
+package ca.yorku.eecs.mack.demo_quotation;
 
 /* A simple class to hold the information for a quotation.  The information needed is 
  * 

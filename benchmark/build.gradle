@@ -3,7 +3,7 @@ plugins {
 }
 
 android {
-    namespace 'ca.yorku.eecs.mack.demo_quotation_25741_benchmark'
+    namespace 'ca.yorku.eecs.mack.demo_quotation_benchmark'
     compileSdk 32
 
     compileOptions {

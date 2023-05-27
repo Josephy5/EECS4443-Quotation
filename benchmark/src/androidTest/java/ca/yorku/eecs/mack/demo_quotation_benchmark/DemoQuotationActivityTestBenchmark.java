@@ -1,4 +1,4 @@
-package ca.yorku.eecs.mack.demo_quotation_25741_benchmark;
+package ca.yorku.eecs.mack.demo_quotation_benchmark;
 
 import android.util.Log;
 import androidx.benchmark.junit4.BenchmarkRule;
@@ -9,15 +9,6 @@ import org.junit.Test;
 import org.junit.runner.RunWith;
 
 import ca.yorku.eecs.mack.demo_quotation_25741.DemoQuotationActivity;
-
-/**
- * DemoQuotationActivityTestBenchmark by...
- * <p>
- * Login ID - josephy5
- * Student ID - 2171255741
- * Last name - Yong
- * First name(s) - Joseph
- */
 
 /**
  * <p>

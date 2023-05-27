@@ -1,4 +1,4 @@
-package ca.yorku.eecs.mack.demo_quotation_25741;
+package ca.yorku.eecs.mack.demo_quotation;
 
 import android.app.Activity;
 import android.app.AlertDialog;
@@ -31,14 +31,7 @@ import java.util.Arrays;
 import java.util.List;
 import java.util.Random;
 
-/**
- * Demo_quotation - with modifications by...
- * <p>
- * Login ID - Josephy5
- * Student ID - 217125741
- * Last name - Yong
- * First name(s) - Joseph
- */
+
 public class DemoQuotationActivity extends Activity implements View.OnTouchListener
 {
     public final static String QUIZ_LENGTH_KEY = "number_of_questions"; // also used in QuizActivity
